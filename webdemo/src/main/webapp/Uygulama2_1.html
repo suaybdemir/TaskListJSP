@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Suayb Demir">
+    <meta name="description" content="Forum">
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <title>Forum</title>
+</head>
+<body>
+
+
+    <h1><legend>Personal Information</legend></h1>
+    <hr>
+    <form action="uygulama2_1.jsp" method="post">
+      Your Name <input type="text" name="firstName" id="firstName" required placeholder="Your Name Here!">
+      Last Name <input type="text" name="lastName" id="lastName" required placeholder="Your Last Name Here!">
+      Phone Number <input type="tel" name="phone" id="phone" placeholder="555-555-5555" required pattern="[0-9]{3}[0-9]{3}[0-9]{4}">
+      Favourite Coffee <input type="text" name="coffee" >
+        <select name="cofee" id="coffee" >
+            <optgroup label="Coffees">
+                <option>Regular Coffee</option>
+                <option>Iced Coffee</option>
+            </optgroup>
+            <optgroup label="Espresso Coffe">
+                <option>Cappucino</option>
+                <option>Latte</option>
+                <option>Tai Chi</option>
+                <option>Americano</option>
+                <option>Other</option>
+            </optgroup>
+        </select>
+
+
+        <h3><legend>
+            What's Your Favourite Day?
+        </legend></h3>
+        Mid-Week <input type="checkbox" name="mid-week" id="mid-week">
+        Weekend <input type="checkbox" name="weekend" id="weekend">
+        <br>
+        <br>
+        <button type="submit" formaction="uygulama2_1.jsp" formmethod="post">Submit</button>
+        &nbsp;
+        <button type="reset">Reset</button>
+
+
+
+
+</body>
+</html>
