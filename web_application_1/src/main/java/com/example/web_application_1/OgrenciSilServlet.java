@@ -8,7 +8,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 
-@WebServlet(name = "OgrenciEkleServlet", value = "ogrenciSil")
+@WebServlet(name = "OgrenciSilServlet", value = "ogrenciSil")
 public class OgrenciSilServlet extends HttpServlet {
 
     private OgrenciVeri ogrenciVeri = new OgrenciVeri();
