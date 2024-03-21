@@ -26,6 +26,6 @@
 
 ### Delete
 
-  <img src="" alt="Alt text here">
+  <img src="https://i.ibb.co/PcJ9Wsc/Screenshot-from-2024-03-21-04-16-42.png" alt="Alt text here">
 
 ---
