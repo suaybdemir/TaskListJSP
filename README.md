@@ -6,25 +6,25 @@
 
 ---
 
-- Detailed List
+### Detailed List
 
   <img src="https://i.ibb.co/L1rk58v/Screenshot-from-2024-03-21-04-10-54.png" alt="Alt text here">
 
 ---
 
-- Dates
+### Dates
 
   <img src="https://i.ibb.co/PNLDdWw/Screenshot-from-2024-03-21-04-11-08.png" alt="Alt text here">
 
 ---
 
-- Update
+### Update
 
   <img src="https://i.ibb.co/74gydQX/Screenshot-from-2024-03-21-04-10-44.png" alt="Alt text here">
 
 ---
 
-- Delete
+### Delete
 
   <img src="" alt="Alt text here">
 
